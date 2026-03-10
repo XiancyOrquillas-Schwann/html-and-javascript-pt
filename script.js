@@ -1,3 +1,5 @@
+<!-- Age Calculator -->
+
 function calculateAge() {
     const birthdate = document.getElementById("birthdate").value;
     const result = document.getElementById("result");
